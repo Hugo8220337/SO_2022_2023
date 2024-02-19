@@ -1,7 +1,7 @@
 <h1 align="center">Practical Work on Sistemas Operativos (Operating Systems)</h1>
 
 <p>
-  <img src="http://img.shields.io/static/v1?style=for-the-badge&label=School%20year&message=2021/2022&color=GREEN"/>
+  <img src="http://img.shields.io/static/v1?style=for-the-badge&label=School%20year&message=2022/2023&color=GREEN"/>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Discipline&message=SO&color=GREEN"/>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Grade&message=14&color=sucess"/>
 
